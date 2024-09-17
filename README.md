@@ -1,9 +1,5 @@
 # wysa
 
-Here's a basic `README.md` file for your project. You can adjust the details as needed based on your specific setup and requirements.
-
-### **README.md**
-
 ```markdown
 # User Authentication API
 
